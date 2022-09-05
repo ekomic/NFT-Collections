@@ -355,6 +355,7 @@ export default function Home() {
       <div className={styles.main}>
         <div>
           <h1 className={styles.title}>Welcome to Chris Ekom's Collections!</h1>
+          <div>Get whitelisted <a href="https://nft-collections-puce.vercel.app/">Here </a></div>
           <div className={styles.description}>
             Its NFT collection for Web3 developers in Crypto.
           </div>
